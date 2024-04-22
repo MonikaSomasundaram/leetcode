@@ -14,7 +14,7 @@ class Solution {
             else if(t.indexOf(s.charAt(l))==-1){
                 l--;
             }
-            else if((String.valueOf(s.charAt(f)).toLowerCase()).equals(String.valueOf(s.charAt(l)).toLowerCase())){
+            else if((String.valueOf(s.charAt(f))).equalsIgnoreCase(String.valueOf(s.charAt(l)))){
                 f++;
                 l--;
             }
