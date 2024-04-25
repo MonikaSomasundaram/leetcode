@@ -1,23 +1,60 @@
 class Solution {
     public int romanToInt(String s) {
-        HashMap<Character,Integer> hm=new HashMap<>();
-        hm.put('I',1);
-        hm.put('V',5);
-        hm.put('X',10);
-        hm.put('L',50);
-        hm.put('C',100);
-        hm.put('D',500);
-        hm.put('M',1000);
         int sum=0;
         for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
-            if((i+1)!=s.length() && hm.get(s.charAt(i))<hm.get(s.charAt(i+1))){
-                sum-=hm.get(s.charAt(i));
+            if(s.charAt(i)=='I'){
+                
+                if((i+1)!=s.length() &&s.charAt(i+1)=='V'){
+                    sum+=4;
+                    i++;
+                }
+                else if((i+1)!=s.length() && s.charAt(i+1)=='X'){
+                    sum+=9;
+                    i++;
+                }
+                else{
+                    sum+=1;
+                }
+            }
+            else if(s.charAt(i)=='V'){
+                sum+=5;
+            }
+            else if(s.charAt(i)=='X'){
+                 if((i+1)!=s.length() &&s.charAt(i+1)=='L'){
+                    sum+=40;
+                    i++;
+                }
+                else if((i+1)!=s.length() && s.charAt(i+1)=='C'){
+                    sum+=90;
+                    i++;
+                }
+                else{
+                    sum+=10;
+                }
+            }
+            else if(s.charAt(i)=='L'){
+                sum+=50;
+            }
+            else if(s.charAt(i)=='C'){
+                 if((i+1)!=s.length() &&s.charAt(i+1)=='D'){
+                    sum+=400;
+                    i++;
+                }
+                else if((i+1)!=s.length() && s.charAt(i+1)=='M'){
+                    sum+=900;
+                    i++;
+                }
+                else{
+                    sum+=100;
+                }
+            }
+            else if(s.charAt(i)=='D'){
+                sum+=500;
             }
             else{
-                sum+=hm.get(s.charAt(i));
+                sum+=1000;
             }
-            
+            System.out.println(sum);
         }
         return sum;
     }
