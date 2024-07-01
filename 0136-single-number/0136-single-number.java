@@ -1,14 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer,Integer> hm=new HashMap<>();
-        for(int i:nums){
-            hm.put(i,hm.getOrDefault(i,0)+1);
+        int xor1=0;
+        for(int i=0;i<nums.length;i++){
+            xor1=xor1^nums[i];
         }
-        for(int i:hm.keySet()){
-            if(hm.get(i)==1){
-                return i;
-            }
-        }
-        return 0;
+        return xor1;
     }
 }
