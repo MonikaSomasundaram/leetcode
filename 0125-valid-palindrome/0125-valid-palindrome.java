@@ -4,7 +4,7 @@ class Solution {
         s=s.toLowerCase();
         for(int j=0;j<s.length();j++){
             char i=s.charAt(j);
-            if((i>='a' && i<='z') || (i>='0' && i<='9')){
+            if((i>=97 && i<=122) || (i>=48 && i<=57)){
                 ans+=i;
             }
         }
