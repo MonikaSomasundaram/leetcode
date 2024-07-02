@@ -11,13 +11,9 @@ class Solution {
         int l=0;
         int r=ans.length()-1;
         while(l<r){
-            if(ans.charAt(l)==ans.charAt(r)){
+            if(ans.charAt(l)!=ans.charAt(r)) return false;
                 l++;
                 r--;
-            }
-            else{
-                return false;
-            }
         }
         return true;
     }
