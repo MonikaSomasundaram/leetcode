@@ -2,7 +2,8 @@ class Solution {
     public boolean isPalindrome(String s) {
         String ans="";
         s=s.toLowerCase();
-        for(char i:s.toCharArray()){
+        for(int j=0;j<s.length();j++){
+            char i=s.charAt(j);
             if((i>='a' && i<='z') || (i>='0' && i<='9')){
                 ans+=i;
             }
