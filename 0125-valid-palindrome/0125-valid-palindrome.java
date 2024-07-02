@@ -1,25 +1,20 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        int f=0;
-        int l=s.length()-1;
-        String t="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-        while(f<l){
-            if(t.indexOf(s.charAt(f))==-1 && t.indexOf(s.charAt(l))==-1){
-                f++;
-                l--;
+        String ans="";
+        s=s.toLowerCase();
+        for(char i:s.toCharArray()){
+            if((i>='a' && i<='z') || (i>='0' && i<='9')){
+                ans+=i;
             }
-            else if(t.indexOf(s.charAt(f))==-1){
-                f++;
-            }
-            else if(t.indexOf(s.charAt(l))==-1){
-                l--;
-            }
-            else if((String.valueOf(s.charAt(f))).equalsIgnoreCase(String.valueOf(s.charAt(l)))){
-                f++;
-                l--;
+        }
+        int l=0;
+        int r=ans.length()-1;
+        while(l<r){
+            if(ans.charAt(l)==ans.charAt(r)){
+                l++;
+                r--;
             }
             else{
-                // System.out.println(s.charAt(f)+" "+s.charAt(l)+" "+String.valueOf(s.charAt(f)).toLowerCase()+" "+String.valueOf(s.charAt(l)).toLowerCase());
                 return false;
             }
         }
