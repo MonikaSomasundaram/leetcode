@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MonikaSomasundaram/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MonikaSomasundaram/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/MonikaSomasundaram/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MonikaSomasundaram/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -82,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MonikaSomasundaram/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MonikaSomasundaram/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
