@@ -8,7 +8,7 @@ class Solution {
         while(i<s.length()){
             while(i<s.length() && r<numRows){
                 arr[r][c]=s.charAt(i);
-                System.out.println(r+" "+c);;
+//System.out.println(r+" "+c);;
                 i++;
                 r++;
             }
@@ -16,7 +16,7 @@ class Solution {
             c++;
             while(i<s.length() && r>=0){
                 arr[r][c]=s.charAt(i);
-                System.out.println(r+" "+c);
+              //  System.out.println(r+" "+c);
                 i++;
                 c++;
                 r--;
