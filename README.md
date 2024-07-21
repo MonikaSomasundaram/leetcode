@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MonikaSomasundaram/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MonikaSomasundaram/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/MonikaSomasundaram/leetcode/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Greedy
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
