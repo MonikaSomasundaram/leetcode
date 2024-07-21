@@ -25,8 +25,8 @@ class Solution {
             r=r+2;
         }
         String ans="";
-        for(i=0;i<arr.length;i++){
-            for(int j=0;j<arr[0].length;j++){
+        for(i=0;i<numRows;i++){
+            for(int j=0;j<c+1;j++){
                 if((arr[i][j]>='A' && arr[i][j]<='Z') || (arr[i][j]>='a' && arr[i][j]<='z') || arr[i][j]==',' || arr[i][j]=='.')
                      ans+=arr[i][j];
             }
