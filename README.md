@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/MonikaSomasundaram/leetcode/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/0125-valid-palindrome) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Greedy
