@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MonikaSomasundaram/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/MonikaSomasundaram/leetcode/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Greedy
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MonikaSomasundaram/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/MonikaSomasundaram/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MonikaSomasundaram/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
