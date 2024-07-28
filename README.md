@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MonikaSomasundaram/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MonikaSomasundaram/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MonikaSomasundaram/leetcode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/MonikaSomasundaram/leetcode/tree/master/0890-lemonade-change) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonikaSomasundaram/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MonikaSomasundaram/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MonikaSomasundaram/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/MonikaSomasundaram/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/MonikaSomasundaram/leetcode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/MonikaSomasundaram/leetcode/tree/master/0890-lemonade-change) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Binary Indexed Tree
 |  |
