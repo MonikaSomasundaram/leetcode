@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MonikaSomasundaram/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/MonikaSomasundaram/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/MonikaSomasundaram/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/MonikaSomasundaram/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MonikaSomasundaram/leetcode/tree/master/0605-can-place-flowers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MonikaSomasundaram/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/MonikaSomasundaram/leetcode/tree/master/0455-assign-cookies) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MonikaSomasundaram/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MonikaSomasundaram/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/MonikaSomasundaram/leetcode/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/MonikaSomasundaram/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/MonikaSomasundaram/leetcode/tree/master/0605-can-place-flowers) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Binary Indexed Tree
