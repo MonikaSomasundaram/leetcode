@@ -1,7 +1,7 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
         int n=intervals.length;
-        List<List<Integer>> ans=new ArrayList<>();
+        List<int []> ans=new ArrayList<>();
         Arrays.sort(intervals,new Comparator<int[]>(){
             public int compare(int a[],int b[]){
                 return a[0]-b[0];
@@ -14,19 +14,19 @@ class Solution {
                 end=Math.max(end,intervals[i][1]);
             }
             else{
-                ans.add(Arrays.asList(start,end));
+                int temp[]={start,end};
+                ans.add(temp);
                 start=intervals[i][0];
                 end=intervals[i][1];
             }
         }
-        ans.add(Arrays.asList(start,end));
+        int temp[]={start,end};
+        ans.add(temp);
         int rows = ans.size();
         int cols = 2; 
         int[][] array = new int[rows][cols];
         for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                array[i][j] = ans.get(i).get(j);
-            }
+            array[i]=ans.get(i);
         }
         return array;
     }
