@@ -4,14 +4,17 @@ class Solution {
         int c=0;
         Arrays.sort(g);
         Arrays.sort(s);
-        for(int i=0;i<g.length;i++){
-             for(int j=0;j<s.length;j++){
-                if(arr[j]==0 && s[j]>=g[i]){
-                      arr[j]=1;
-                      c++;
-                      break;
-                }
-             }
+        int i=0;
+        int j=0;
+        while(i<g.length && j<s.length){
+            if(g[i]<=s[j]){
+                c++;
+                j++;
+                i++;
+            }
+            else{
+                j++;
+            }
         }
         return c;
     }
