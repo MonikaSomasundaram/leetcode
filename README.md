@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MonikaSomasundaram/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/MonikaSomasundaram/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/MonikaSomasundaram/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0229-majority-element-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/MonikaSomasundaram/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
 ## Database
 |  |
