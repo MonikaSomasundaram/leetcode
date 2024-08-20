@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MonikaSomasundaram/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/MonikaSomasundaram/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/MonikaSomasundaram/leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/MonikaSomasundaram/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MonikaSomasundaram/leetcode/tree/master/0169-majority-element) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/MonikaSomasundaram/leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/MonikaSomasundaram/leetcode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
