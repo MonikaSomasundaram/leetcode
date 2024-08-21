@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/MonikaSomasundaram/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 ## Greedy
 |  |
@@ -151,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0227-basic-calculator-ii) |
+| [1078-remove-outermost-parentheses](https://github.com/MonikaSomasundaram/leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
