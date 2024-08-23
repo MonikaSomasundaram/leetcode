@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/MonikaSomasundaram/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+| [2032-largest-odd-number-in-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/MonikaSomasundaram/leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/MonikaSomasundaram/leetcode/tree/master/0890-lemonade-change) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
+| [2032-largest-odd-number-in-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
