@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MonikaSomasundaram/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/MonikaSomasundaram/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MonikaSomasundaram/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/0125-valid-palindrome) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MonikaSomasundaram/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/MonikaSomasundaram/leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/MonikaSomasundaram/leetcode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/0125-valid-palindrome) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MonikaSomasundaram/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/MonikaSomasundaram/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
 ## Database
