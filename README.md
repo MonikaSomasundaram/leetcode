@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MonikaSomasundaram/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2502-sort-the-people](https://github.com/MonikaSomasundaram/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/MonikaSomasundaram/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MonikaSomasundaram/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2502-sort-the-people](https://github.com/MonikaSomasundaram/leetcode/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/MonikaSomasundaram/leetcode/tree/master/0455-assign-cookies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2502-sort-the-people](https://github.com/MonikaSomasundaram/leetcode/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MonikaSomasundaram/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2502-sort-the-people](https://github.com/MonikaSomasundaram/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/MonikaSomasundaram/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Greedy
 |  |
