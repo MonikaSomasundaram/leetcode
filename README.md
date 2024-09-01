@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MonikaSomasundaram/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MonikaSomasundaram/leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/MonikaSomasundaram/leetcode/tree/master/0890-lemonade-change) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/MonikaSomasundaram/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonikaSomasundaram/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MonikaSomasundaram/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MonikaSomasundaram/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MonikaSomasundaram/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MonikaSomasundaram/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/MonikaSomasundaram/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
