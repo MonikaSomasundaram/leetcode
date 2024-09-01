@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/MonikaSomasundaram/leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/MonikaSomasundaram/leetcode/tree/master/0890-lemonade-change) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonikaSomasundaram/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MonikaSomasundaram/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/MonikaSomasundaram/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/MonikaSomasundaram/leetcode/tree/master/0455-assign-cookies) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
