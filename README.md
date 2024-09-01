@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonikaSomasundaram/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MonikaSomasundaram/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MonikaSomasundaram/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/MonikaSomasundaram/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MonikaSomasundaram/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MonikaSomasundaram/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0229-majority-element-ii) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
 | ------- |
