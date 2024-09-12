@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MonikaSomasundaram/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonikaSomasundaram/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MonikaSomasundaram/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MonikaSomasundaram/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/MonikaSomasundaram/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MonikaSomasundaram/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/MonikaSomasundaram/leetcode/tree/master/2502-sort-the-people) |
 ## Binary Search
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MonikaSomasundaram/leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/MonikaSomasundaram/leetcode/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MonikaSomasundaram/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/MonikaSomasundaram/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MonikaSomasundaram/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MonikaSomasundaram/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/MonikaSomasundaram/leetcode/tree/master/2502-sort-the-people) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MonikaSomasundaram/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MonikaSomasundaram/leetcode/tree/master/0229-majority-element-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/MonikaSomasundaram/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
