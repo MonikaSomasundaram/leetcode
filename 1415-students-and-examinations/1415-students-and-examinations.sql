@@ -1,0 +1,3 @@
+# Write your MySQL query statement below
+select a.student_id,a.student_name,a.subject_name,count(b.student_id) as attended_exams from (select * from Students as s cross join Subjects as ss order by s.student_id,ss.subject_name) as a left join Examinations as b on a.student_id=b.student_id and a.subject_name=b.subject_name  group by a.student_id,a.subject_name order by a.student_id,a.subject_name;
+/*select e.student_id,s.student_name,e.subject_name,count(e.student_id) as attended_exams from Students as s inner join Examinations as e on s.student_id=e.student_id group by e.student_id,e.subject_name order by e.student_id,e.subject_name;*/
