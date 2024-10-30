@@ -1,14 +1,14 @@
 class Solution {
     public String customSortString(String order, String s) {
         HashMap<Character,Integer> hm=new HashMap<>();
-        for(char i:s.toCharArray()){
-              hm.put(i,hm.getOrDefault(i,0)+1);
+        for(int i=0;i<s.length();i++){
+              hm.put(s.charAt(i),hm.getOrDefault(s.charAt(i),0)+1);
         }
         String a="";
-        for(char i:order.toCharArray()){
-            if(hm.containsKey(i)){
-                for(int j=0;j<hm.get(i);j++)a+=i;
-                hm.remove(i);
+        for(int i=0;i<order.length();i++){
+            if(hm.containsKey(order.charAt(i))){
+                for(int j=0;j<hm.get(order.charAt(i));j++)a+=order.charAt(i);
+                hm.remove(order.charAt(i));
             }
         }
         for(char i:hm.keySet()){
