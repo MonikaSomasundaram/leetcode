@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MonikaSomasundaram/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MonikaSomasundaram/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MonikaSomasundaram/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
