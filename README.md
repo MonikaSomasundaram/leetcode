@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MonikaSomasundaram/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/MonikaSomasundaram/leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/MonikaSomasundaram/leetcode/tree/master/0890-lemonade-change) |
+| [1019-squares-of-a-sorted-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MonikaSomasundaram/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MonikaSomasundaram/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/MonikaSomasundaram/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/MonikaSomasundaram/leetcode/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/MonikaSomasundaram/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MonikaSomasundaram/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/MonikaSomasundaram/leetcode/tree/master/0455-assign-cookies) |
 | [0807-custom-sort-string](https://github.com/MonikaSomasundaram/leetcode/tree/master/0807-custom-sort-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/MonikaSomasundaram/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MonikaSomasundaram/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/MonikaSomasundaram/leetcode/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
